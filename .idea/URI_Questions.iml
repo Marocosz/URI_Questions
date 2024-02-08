@@ -5,6 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/uri_questions_venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv_uri" />
+      <excludeFolder url="file://$MODULE_DIR$/venvuri" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.11 (URI_Questions)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
